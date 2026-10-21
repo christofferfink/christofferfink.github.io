@@ -220,6 +220,10 @@ a {
   border-top: 1px solid var(--border);
 }
 
+.hero + .section {
+  padding-top: 1.5rem;
+}
+
 .section h2 {
   margin-top: 0;
   font-size: 1.8rem;
